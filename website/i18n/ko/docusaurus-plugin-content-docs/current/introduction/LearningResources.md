@@ -4,11 +4,11 @@ title: Learning Resources
 description: 'Introduction > Learning Resources: Additional articles and resources for learning Redux'
 ---
 
-# Learning Resources
+# 학습 자료들
 
-The Redux docs are intended to teach the basic concepts of Redux, as well as explain key concepts for use in real-world applications. However, the docs can't cover everything. Happily, there are many other great resources available for learning Redux. We encourage you to check them out. Many of them cover topics that are beyond the scope of the docs, or describe the same topics in other ways that may work better for your learning style.
+Redux문서는 Redux의 기본 개념들을 알려주기 위할 뿐 아니라 실제 사용할 때의 핵심 개념들을 설명하기 위하여 작성되었습니다. 하지만, 이 문서가 모든 내용을 다룰 수는 없습니다. 다행이도, Redux를 공부하기 위하여 이용할 수 있는 다른 훌륭한 자료들이 많이 있습니다. 우리는 그 자료들을 읽어볼 것을 장려합니다. 많은 자료들이 이 문서의 범위 보다 더 넓은 범위의 주제들을 다루거나, 이 문서에 나온 주제들을 당신의 학습 스타일에 더 잘 맞을수도 있는 방법들로 설명합니다.
 
-This page includes our recommendations for some of the best external resources available to learn Redux. For an additional extensive list of tutorials, articles, and other resources on React, Redux, Javascript, and related topics, see the [React/Redux Links list](https://github.com/markerikson/react-redux-links).
+이 페이지는 Redux를 배울 수 있는 가장 좋은 외부 자료들 중 몇가지를 추천합니다. 추가적인 React, Redux, Javascript, 그리고 관련된 주제에 관한 튜토리얼들, 논문들, 그리고 그 외 자료들은 [React/Redux Links list](https://github.com/markerikson/react-redux-links) 에 나와있습니다.
 
 ## Basic Introductions
 
